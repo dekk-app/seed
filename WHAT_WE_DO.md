@@ -33,7 +33,7 @@ we just enable you to create it and make it available to everybody with internet
 Dekk will pay each of its employees the exact same amount of money. That means, CEO, CTO, senior or junior developers,
 office management and even part-time employees will all get the same salary.  
 When we start creating hardware, then this rule applies to every factory worker as well.  
-In general "Every employee has the same salary".
+In general: "Every employee has the same salary".
 
 ## How can I help?
 
@@ -41,7 +41,7 @@ In general "Every employee has the same salary".
 * Open an issue in this repository and ask questions. We are happy to answer them and get inspired.
 * Join us by contacting us and help us build Dekk.
 
-We do not want your money until we have taken actions that prevent us from dishonouring money.  
+We do not want your money until we have taken actions that prevent us from dishonoring money.  
 We do not take donations of any form right now.
 
 ## Can I pay in cryptocurrency?
