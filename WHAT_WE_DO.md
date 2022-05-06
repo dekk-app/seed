@@ -13,7 +13,7 @@ This could be a presentation in form of slides or even an experience in mixed re
 Dekk aims for crowdfunding, that means Dekk will not make money (in its beginning stages).  
 We aim to create an accessible and fully free platform.  
 If Dekk proves to be successful, we will create different branches that create paid products. The price of those
-products will compensate the production costs. Every cent above that will be used e expand Dekk or donated to other NPOs.
+products will compensate the production costs, every cent above that will be used to expand Dekk or donated to other NPOs.
 
 ## Is Dekk an NPO?
 
