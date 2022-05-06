@@ -28,7 +28,7 @@
 
 * Enable the presentation of ideas of all kinds
 * Contributions receive the same level of acknowledgement
-* Apply a model prevents being abused
+* Apply a model that prevents being abused
 
 # LICENSES
 
