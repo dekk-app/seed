@@ -6,13 +6,13 @@
 # What we do
 
 Dekk aims to create a platform that allows the presentation of ideas in any form.  
-This could be presentation in form of slides or even an experience in mixed reality.
+This could be a presentation in form of slides or even an experience in mixed reality.
 
 ## How does Dekk make money?
 
 Dekk aims for crowdfunding, that means Dekk will not make money (in its beginning stages).  
 We aim to create an accessible and fully free platform.  
-If Dekk proves to be successful we will create different branches that create paid products. These price of these
+If Dekk proves to be successful, we will create different branches that create paid products. These price of these
 products will compensate the production costs. Every cent above that will be donated to other NPOs.
 
 ## Is Dekk an NPO?
@@ -32,7 +32,7 @@ we just enable you to create it and make it available to everybody with internet
 
 Dekk will pay each of its employees the exact same amount of money. That means, CEO, CTO, senior or junior developers,
 office management and even part-time employees will all get the same salary.  
-When we start creating hardware then this rule applies to every factory worker as well.  
+When we start creating hardware, then this rule applies to every factory worker as well.  
 In general "Every employee has the same salary".
 
 ## How can I help?
