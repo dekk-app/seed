@@ -30,8 +30,8 @@ we just enable you to create it and make it available to everybody with internet
 
 ## Explain "Equal pay" to me
 
-Dekk will pay each of its employees the exact same amount of money. That means, CEO, CTO, senior or junior developers,
-office management and even part-time employees will all get the same salary.  
+Dekk will pay each of its employees the exact same amount of money. That means, CEO, CTO, senior or junior developers and
+office management or others will all get the same salary.  
 When we start creating hardware, then this rule applies to every factory worker as well.  
 In general: "Every employee has the same salary".
 
